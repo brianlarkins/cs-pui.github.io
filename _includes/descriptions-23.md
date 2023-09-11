@@ -6,7 +6,7 @@ _Excerpt_ The Amherst College Department of Computer Science invites application
 - Applications received by **October 16, 2023**, will be assured of full consideration
 - Amherst, MA. USA
 
-[Full Job Posting](https://apply.interfolio.com/128557){: .button-job} 
+[Full Job Posting](https://apply.interfolio.com/128557){: .button-job}
 [_back to all deadlines_](#deadlines)
 
 ------------
@@ -14,12 +14,12 @@ _Excerpt_ The Amherst College Department of Computer Science invites application
 ### Carleton College
 {: #carleton}
 
-_Excerpt_ Carleton College invites applications for a tenure-track position in computer science, to begin September 1, 2024. We expect to make an appointment at the Assistant Professor level, but we are also happy to consider applications from qualified candidates at any rank. We welcome candidates with any specialization in computer science or closely related fields, and we are particularly interested in candidates committed to teaching a diverse student body. 
+_Excerpt_ Carleton College invites applications for a tenure-track position in computer science, to begin September 1, 2024. We expect to make an appointment at the Assistant Professor level, but we are also happy to consider applications from qualified candidates at any rank. We welcome candidates with any specialization in computer science or closely related fields, and we are particularly interested in candidates committed to teaching a diverse student body.
 
 - Applications received by **September 27, 2023** will receive full consideration
 - Northfield, MN. USA
 
-[Full Job Posting](https://carleton.wd1.myworkdayjobs.com/en-US/CarletonCareers/details/Assistant-Professor-of-Computer-Science_R-00555?jobFamilyGroup=e4c1fd5caef9100db008b7cafb480000){: .button-job} 
+[Full Job Posting](https://carleton.wd1.myworkdayjobs.com/en-US/CarletonCareers/details/Assistant-Professor-of-Computer-Science_R-00555?jobFamilyGroup=e4c1fd5caef9100db008b7cafb480000){: .button-job}
 [_back to all deadlines_](#deadlines)
 
 ------------
@@ -27,12 +27,12 @@ _Excerpt_ Carleton College invites applications for a tenure-track position in c
 ### Denison University
 {: #denison}
 
-_Excerpt_ The Computer Science program at Denison University invites applications for tenure-track faculty positions at any rank, with the potential for hire with tenure for senior-ranked candidates, to begin in August 2024. Candidates are required to have a PhD in Computer Science or a closely related field by the start date. We are seeking energetic and dynamic teachers who are committed to teaching a variety of courses in the CS core curriculum and creating new electives that complement our existing offerings.  Candidates should be dedicated to teaching in a liberal arts setting, mentoring undergraduate students, and supervising their research projects. Individuals who identify as underrepresented in STEM disciplines and CS in particular are strongly encouraged to apply. We are located in the village of Granville, 30 minutes from Columbus, Ohio, the state capital, which hosts a wide range of cultural and artistic opportunities. 
+_Excerpt_ The Computer Science program at Denison University invites applications for tenure-track faculty positions at any rank, with the potential for hire with tenure for senior-ranked candidates, to begin in August 2024. Candidates are required to have a PhD in Computer Science or a closely related field by the start date. We are seeking energetic and dynamic teachers who are committed to teaching a variety of courses in the CS core curriculum and creating new electives that complement our existing offerings.  Candidates should be dedicated to teaching in a liberal arts setting, mentoring undergraduate students, and supervising their research projects. Individuals who identify as underrepresented in STEM disciplines and CS in particular are strongly encouraged to apply. We are located in the village of Granville, 30 minutes from Columbus, Ohio, the state capital, which hosts a wide range of cultural and artistic opportunities.
 
 - We will begin reviewing applications on a rolling basis on **October 10, 2023**. We welcome applications received after this date and will evaluate them as they arrive.
 - Granville, OH. USA
 
-[Full Job Posting](https://apply.interfolio.com/129670){: .button-job} 
+[Full Job Posting](https://apply.interfolio.com/129670){: .button-job}
 [_back to all deadlines_](#deadlines)
 
 ------------
@@ -57,7 +57,7 @@ the social value of computing.
 - Applications received by **October 15, 2023** will receive full consideration
 - Carlisle, PA. USA.
 
-[Full Job Posting](https://jobs.dickinson.edu/postings/7111){: .button-job} 
+[Full Job Posting](https://jobs.dickinson.edu/postings/7111){: .button-job}
 [_back to all deadlines_](#deadlines)
 
 ------------
@@ -65,12 +65,12 @@ the social value of computing.
 ### Haverford College
 {: #haverford}
 
-_Excerpt_ Haverford College invites applications for a tenure-track position as Assistant Professor in the Department of Computer Science, starting in the Fall semester of 2024. The area of scholarly expertise is open, with the successful candidate demonstrating evidence of research productivity, vision, and long-term impact. Teaching responsibilities include courses at all levels of the curriculum, in particular our core introductory sequence, upper-level electives that expand our range of advanced courses, and supervision of undergraduate research. 
+_Excerpt_ Haverford College invites applications for a tenure-track position as Assistant Professor in the Department of Computer Science, starting in the Fall semester of 2024. The area of scholarly expertise is open, with the successful candidate demonstrating evidence of research productivity, vision, and long-term impact. Teaching responsibilities include courses at all levels of the curriculum, in particular our core introductory sequence, upper-level electives that expand our range of advanced courses, and supervision of undergraduate research.
 
 - Applications submitted by **October 6, 2023** are guaranteed full consideration
 - Haverford, PA. USA.
 
-[Full Job Posting](https://apply.interfolio.com/128585){: .button-job} 
+[Full Job Posting](https://apply.interfolio.com/128585){: .button-job}
 [_back to all deadlines_](#deadlines)
 
 ------------
@@ -81,9 +81,9 @@ _Excerpt_ Haverford College invites applications for a tenure-track position as 
 _Excerpt_ The Computer Science Department at Harvey Mudd College (HMC) has multiple tenure-track openings for assistant professors commencing July 1, 2024. Exceptional candidates at higher ranks are welcome to apply. Candidates in all areas of computer science will be considered; candidates demonstrating interest and potential for teaching courses in computer systems, software development, theory, and computational biology are especially encouraged to apply. Successful candidates should have completed a Ph.D. by the time of appointment.  The 9-month salary range for this position is $100k - 120k.
 
 - Any applications received by **October 15, 2023**, will receive full consideration
-- Claremont, CA. USA. 
+- Claremont, CA. USA.
 
-[Full Job Posting](https://academicjobsonline.org/ajo/jobs/24986){: .button-job} 
+[Full Job Posting](https://academicjobsonline.org/ajo/jobs/24986){: .button-job}
 [_back to all deadlines_](#deadlines)
 
 ------------
@@ -91,12 +91,12 @@ _Excerpt_ The Computer Science Department at Harvey Mudd College (HMC) has multi
 ### College of the Holy Cross
 {: #holycross}
 
-_Excerpt_ The Department of Mathematics and Computer Science at the College of the Holy Cross invites applications for a full-time tenure-track Assistant Professor in Computer Science to begin in August 2024. All research specialties will be considered. This position carries a 3-2 teaching load with a full-salary one-semester research leave prior to tenure review, and generous sabbatical and fellowship leaves for tenured faculty. All full-time appointments offer competitive salaries and include full benefits, including travel support and reimbursement for relocation. 
+_Excerpt_ The Department of Mathematics and Computer Science at the College of the Holy Cross invites applications for a full-time tenure-track Assistant Professor in Computer Science to begin in August 2024. All research specialties will be considered. This position carries a 3-2 teaching load with a full-salary one-semester research leave prior to tenure review, and generous sabbatical and fellowship leaves for tenured faculty. All full-time appointments offer competitive salaries and include full benefits, including travel support and reimbursement for relocation.
 
 - Review of applications will begin on **October 16, 2023**, and continue until the position has been filled.
 - Worcester, MA. USA.
 
-[Full Job Posting](https://apply.interfolio.com/129369){: .button-job} 
+[Full Job Posting](https://apply.interfolio.com/129369){: .button-job}
 [_back to all deadlines_](#deadlines)
 
 ------------
@@ -106,10 +106,10 @@ _Excerpt_ The Department of Mathematics and Computer Science at the College of t
 
 _Excerpt_ The Lafayette College Computer Science Department invites applications for **two** full-time, tenure-track positions at the rank of Assistant or Associate Professor commencing July 2024. Candidates from all computing related research areas, including interdisciplinary ones, are encouraged to apply. Candidates will have earned, or be near completion of, a Ph.D. in computer science or a related field by the start of their appointment. The department especially welcomes applications from candidates who will contribute to Lafayette's commitment to diversity and inclusion, with a strong commitment to student research ... Faculty members teach the equivalent of four courses in their first year and five courses (3:2) per year thereafter.
 
-- Review of applications will begin on **October 13, 2023**, but will be accepted until the position is filled. 
+- Review of applications will begin on **October 13, 2023**, but will be accepted until the position is filled.
 - Easton, PA. USA.
 
-[Full Job Posting](https://apply.interfolio.com/128685){: .button-job} 
+[Full Job Posting](https://apply.interfolio.com/128685){: .button-job}
 [_back to all deadlines_](#deadlines)
 
 ------------
@@ -122,7 +122,7 @@ _Excerpt_ The Mount Holyoke College Computer Science Department invites applicat
 - Full consideration will be given to complete applications received by **October 10, 2023**
 - South Hadley, MA. USA.
 
-[Full Job Posting](https://careers.pageuppeople.com/1024/cw/en-us/job/493728/open-rank-professor-of-computer-science){: .button-job} 
+[Full Job Posting](https://careers.pageuppeople.com/1024/cw/en-us/job/493728/open-rank-professor-of-computer-science){: .button-job}
 [_back to all deadlines_](#deadlines)
 
 ------------
@@ -130,12 +130,12 @@ _Excerpt_ The Mount Holyoke College Computer Science Department invites applicat
 ### Oberlin College
 {: #oberlin-cs}
 
-_Excerpt_ The Computer Science Department at Oberlin College invites applications for a full-time tenure track faculty position in the College of Arts and Sciences. We seek candidates with teaching and research interests in any area of Computer Science, and especially encourage candidates with interest in machine learning/data science to apply. Review of applications will begin on October 1st, 2023, and will continue until the position is filled. 
+_Excerpt_ The Computer Science Department at Oberlin College invites applications for a full-time tenure track faculty position in the College of Arts and Sciences. We seek candidates with teaching and research interests in any area of Computer Science, and especially encourage candidates with interest in machine learning/data science to apply. Review of applications will begin on October 1st, 2023, and will continue until the position is filled.
 
 - Any applications received by **October 1, 2023**, will be guaranteed full consideration
-- Oberlin, OH. USA. 
+- Oberlin, OH. USA.
 
-[Full Job Posting](https://jobs.oberlin.edu/postings/14154){: .button-job} 
+[Full Job Posting](https://jobs.oberlin.edu/postings/14154){: .button-job}
 [_back to all deadlines_](#deadlines)
 
 ------------
@@ -148,7 +148,7 @@ _Excerpt_ The Department of Computer Science at Reed College invites application
 - Applications submitted by **October 16, 2023** are guaranteed full consideration, although review of applications will continue until the position is filled.
 - Portland, OR. USA.
 
-[Full Job Posting](https://apply.interfolio.com/128893){: .button-job} 
+[Full Job Posting](https://apply.interfolio.com/128893){: .button-job}
 [_back to all deadlines_](#deadlines)
 
 ------------
@@ -161,7 +161,7 @@ _Excerpt_ The Department of Computer Science at Skidmore College invites applica
 - Full consideration will be given to complete applications received by **October 1, 2023.**
 - Saratoga Springs, NY. USA.
 
-[Full Job Posting](https://eodq.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/preview/1272/?keyword=computer+science&mode=location){: .button-job} 
+[Full Job Posting](https://eodq.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/preview/1272/?keyword=computer+science&mode=location){: .button-job}
 [_back to all deadlines_](#deadlines)
 
 ------------
@@ -176,7 +176,7 @@ _Excerpt_ Union College, a highly-selective undergraduate liberal arts and engin
 - Schenectady, New York. USA.
 
 [Full Job Posting](https://jobs.union.edu/en-us/job/493331/mary-h-80-and-richard-k-80-templeton-assistant-professor-of-computer-science){: .button-job}
-[_back to all deadlines_](#deadlines) 
+[_back to all deadlines_](#deadlines)
 
 ------------
 
@@ -190,7 +190,7 @@ _Excerpt_ Bard College invites applications for a tenure-track Assistant Profess
 - Annandale-On-Hudson, NY. USA.
 
 [Full Job Posting](https://apply.interfolio.com/130313){: .button-job}
-[_back to all deadlines_](#deadlines) 
+[_back to all deadlines_](#deadlines)
 
 ------------
 
@@ -204,7 +204,7 @@ _Excerpt_ Pomona College seeks applications for an Open-Rank (assistant, associa
 - Claremont, CA. USA.
 
 [Full Job Posting](https://academicjobsonline.org/ajo/jobs/25347){: .button-job}
-[_back to all deadlines_](#deadlines) 
+[_back to all deadlines_](#deadlines)
 
 ------------
 
@@ -218,7 +218,7 @@ _Excerpt_ The Department of Mathematics and Computer Science at Davidson College
 - Davidson, NC. USA.
 
 [Full Job Posting](https://employment.davidson.edu/en-us/listing/){: .button-job}
-[_back to all deadlines_](#deadlines) 
+[_back to all deadlines_](#deadlines)
 
 ------------
 
@@ -232,7 +232,7 @@ _Excerpt_ The Computer Science Department at Bucknell University invites applica
 - Lewisburg, PA. USA.
 
 [Full Job Posting](https://jobs.bucknell.edu/en-us/job/497490/open-rank-tenuretrack-position-in-computer-science){: .button-job}
-[_back to all deadlines_](#deadlines) 
+[_back to all deadlines_](#deadlines)
 
 ------------
 
@@ -246,7 +246,7 @@ _Excerpt_ The Department of Computer Science at Whitman College seeks applicants
 - Walla Walla, WA. USA.
 
 [Full Job Posting](https://apply.interfolio.com/130950){: .button-job}
-[_back to all deadlines_](#deadlines) 
+[_back to all deadlines_](#deadlines)
 
 ------------
 
@@ -254,14 +254,14 @@ _Excerpt_ The Department of Computer Science at Whitman College seeks applicants
 ### Franklin & Marshall College
 {: #fnm}
 
-_Excerpt_ Franklin & Marshall College invites applications for a tenure-track position in the Department of Computer Science beginning August 2024.  The rank will be Assistant Professor or Instructor depending on qualifications.  Applicants should possess or be close to completing a doctorate degree in Computer Science, Data Science, or a related field.  Candidates must apply electronically via Interfolio: [https://apply.interfolio.com/131030](https://apply.interfolio.com/131030).  Individuals who need accommodation due to a disability in order to submit an application or to otherwise participate in the employment process should contact the department’s academic coordinator, Kelly Smith [kelly.smith@fandm.edu](kelly.smith@fandm.edu). 
+_Excerpt_ Franklin & Marshall College invites applications for a tenure-track position in the Department of Computer Science beginning August 2024.  The rank will be Assistant Professor or Instructor depending on qualifications.  Applicants should possess or be close to completing a doctorate degree in Computer Science, Data Science, or a related field.  Candidates must apply electronically via Interfolio: [https://apply.interfolio.com/131030](https://apply.interfolio.com/131030).  Individuals who need accommodation due to a disability in order to submit an application or to otherwise participate in the employment process should contact the department’s academic coordinator, Kelly Smith [kelly.smith@fandm.edu](kelly.smith@fandm.edu).
 
 
 - Review of applications will begin **October 31, 2023** .
 - Lancaster, PA. USA.
 
 [Full Job Posting](https://apply.interfolio.com/131030){: .button-job}
-[_back to all deadlines_](#deadlines) 
+[_back to all deadlines_](#deadlines)
 
 ------------
 
@@ -274,6 +274,21 @@ _Excerpt_ The Computer Science Department at Hamilton College invites applicatio
 - Clinton, NY. USA.
 
 [Full Job Posting](https://apply.interfolio.com/130460){: .button-job}
-[_back to all deadlines_](#deadlines) 
+[_back to all deadlines_](#deadlines)
+
+------------
+
+### Rhodes College
+{: #rhodes}
+
+_Excerpt_
+
+The Department of Computer Science at Rhodes College is hiring for **two** open-rank (assistant, associate, or full) tenure-track positions to begin in August 2024. We welcome applications from all specializations with preference given to individuals whose research interests complement our department. In addition to traditional areas of computer science, we welcome candidates working in interdisciplinary, emerging, and socially-engaged areas of computing research. The successful candidates will be expected to maintain an active research program and teach a variety of courses at all levels of the undergraduate computer science curriculum. The teaching load is 3-2. We are also interested in candidates who are passionate about encouraging underrepresented groups to pursue computer science and will contribute to sustaining our diverse program. Our students live and learn on one of the country’s most beautiful campuses, located in the heart of Memphis, an economic, medical, and culturally diverse center, making Rhodes one of a handful of prominent liberal arts colleges in a major metropolitan area. For additional information regarding the position, please contact Dr. Catie Welsh, Chair of the Search Committee, at [welshc@rhodes.edu](mailto:welshc@rhodes.edu).
+
+- Review of applications will begin **October 8, 2023** and continue until the position has been filled.
+- Memphis, TN. USA.
+
+[Full Job Posting](https://rhodes.wd5.myworkdayjobs.com/Rhodes_Careers/job/Open-Rank-Faculty-Positions-in-Computer-Science_JR-473){: .button-job}
+[_back to all deadlines_](#deadlines)
 
 ------------
